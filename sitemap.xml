@@ -1,91 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
-  <!-- Home Page -->
-  <url>
-    <loc>https://ecosmetics.skin/</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-
-  <!-- Collections -->
-  <url>
-    <loc>https://ecosmetics.skin/collections/rise-glow</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://ecosmetics.skin/collections/forever-young-the-anti-aging-heroes</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://ecosmetics.skin/collections/knowledge-is-beauty-ebooks</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://ecosmetics.skin/collections/hydration-station-moisturizers</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://ecosmetics.skin/collections/squeaky-clean-soaps-cleansers</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-
-  <!-- Individual Products -->
-  <url>
-    <loc>https://ecosmetics.skin/products/glycolic-acid-serum</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
-    <image:image>
-      <image:loc>https://ecosmetics.skin/images/products/glycolic-acid-serum-main.jpg</image:loc>
-      <image:title>Glycolic Acid Serum</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://ecosmetics.skin/products/hyaluronic-acid-serum</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-
-  <!-- Blog Articles -->
-  <url>
-    <loc>https://ecosmetics.skin/blogs/news/benefits-of-glycolic-acid</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://ecosmetics.skin/blogs/news/anti-aging-skincare-routines</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-
-  <!-- Important Pages -->
-  <url>
-    <loc>https://ecosmetics.skin/pages/about-us</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
-  </url>
-  <url>
-    <loc>https://ecosmetics.skin/pages/contact</loc>
-    <lastmod>2024-09-29</lastmod>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!--  Home Page  -->
+<url>
+  <loc>https://ecosmetics.skin/</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>1.0</priority>
+  <changefreq>daily</changefreq>
+</url>
+<!--  Collections  -->
+<url>
+  <loc>https://ecosmetics.skin/collections/rise-glow</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.9</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://ecosmetics.skin/collections/forever-young-the-anti-aging-heroes</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://ecosmetics.skin/collections/knowledge-is-beauty-ebooks</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.9</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://ecosmetics.skin/collections/hydration-station-moisturizers</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.9</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://ecosmetics.skin/collections/squeaky-clean-soaps-cleansers</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!--  Individual Products  -->
+<url>
+  <loc>https://ecosmetics.skin/products/glycolic-acid-serum</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.9</priority>
+  <changefreq>weekly</changefreq>
+  <image:image>
+    <image:loc>https://ecosmetics.skin/images/products/glycolic-acid-serum-main.jpg</image:loc>
+    <image:title>Glycolic Acid Serum</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>https://ecosmetics.skin/products/hyaluronic-acid-serum</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.9</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!--  Blog Articles  -->
+<url>
+  <loc>https://ecosmetics.skin/blogs/news/benefits-of-glycolic-acid</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.7</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://ecosmetics.skin/blogs/news/anti-aging-skincare-routines</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.7</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<!--  Important Pages  -->
+<url>
+  <loc>https://ecosmetics.skin/pages/about-us</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.6</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://ecosmetics.skin/pages/contact</loc>
+  <lastmod>2024-09-29</lastmod>
+  <priority>0.6</priority>
+  <changefreq>yearly</changefreq>
+</url>
 </urlset>
